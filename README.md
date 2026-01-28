@@ -1,5 +1,5 @@
 <h1 align="center">💼 Portfolio Web</h1> <h2 align="center">Lorenzo Gómez Martins</h2> <p align="center"> 💻 Portfolio Personal &nbsp;·&nbsp; 🎓 UTN Avellaneda &nbsp;·&nbsp; 🗓️ 2025 </p> <p align="center"> Portfolio web desarrollado para presentar <strong>proyectos personales y académicos</strong>,<br/> habilidades técnicas y formación profesional.<br/><br/> Funciona como una <strong>carta de presentación digital</strong>, orientada a procesos de selección,<br/> entrevistas técnicas y evaluaciones académicas. </p>
-
+---
   ## 🌐 Descripción
 
 Sitio web estático
@@ -9,7 +9,7 @@ Desarrollo 100% frontend
 Enfoque en estructura, diseño y experiencia de usuario
 
 Código claro, ordenado y mantenible
-
+---
   ## 🧭 Secciones del Sitio
 🏠 Inicio
 
@@ -38,8 +38,8 @@ Tipos de soluciones ofrecidas en desarrollo web.
 📬 Contacto
 
 Formulario funcional y enlaces a redes profesionales.
-
-🛠️ Tecnologías Utilizadas
+---
+  ## 🛠️ Tecnologías Utilizadas
 Área	Tecnologías
 🧑‍🎨 Frontend	HTML5, CSS3, JavaScript, Bootstrap
 🎨 UI / UX	Bootstrap Icons, Font Awesome
@@ -57,7 +57,7 @@ portfolio/
 └── README.md       # Documentación del proyecto
 ```
 
-
+---
 Estructura pensada para orden, claridad y mantenibilidad.
 
   ## 🎯 Objetivo del Proyecto
@@ -69,7 +69,7 @@ Demostrar dominio de tecnologías frontend
 Aplicar buenas prácticas de maquetado
 
 Centralizar información profesional y contacto
-
+---
   ## 📫 Contacto
 <p> <strong>Lorenzo Gómez Martins</strong> </p>
 
