@@ -45,7 +45,7 @@ Formulario funcional y enlaces a redes profesionales.
 🧑‍🎨 Frontend	HTML5, CSS3, JavaScript, Bootstrap
 🎨 UI / UX	Bootstrap Icons, Font Awesome
 📩 Otros	EmailJS (formulario de contacto)
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" /> </a> </p> <p> 📌 Proyecto <strong>sin backend ni base de datos</strong><br/> 📌 Formulario de contacto implementado con <strong>EmailJS</strong> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" /> </a> </p> 📌 Formulario de contacto implementado con <strong>EmailJS</strong> </p>
 
   ## 🧱 Estructura del Proyecto
 ```bash
@@ -74,7 +74,6 @@ Centralizar información profesional y contacto
   ## 📫 Contacto
 <p> <strong>Lorenzo Gómez Martins</strong> </p>
 
-Lorenzo Gomez Martins
 - 📧  lorenzogomezmartins@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/lorenzo-gomez-martins-ab942b299/)  
 - 🧠 Portafolio y proyectos: [GitHub](https://github.com/Lorenzogomezmartins)
