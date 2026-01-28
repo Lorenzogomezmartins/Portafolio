@@ -1006,6 +1006,25 @@ HABILIDADES
 }
 
 /* ===============================
+   FOOTER
+================================= */
+footer {
+  background-color: #0f172a;     
+  color: #d8dee7;                 
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 60px;               
+  font-size: 14px;
+  border-top: 1px solid #1e293b;  
+}
+
+footer::selection {
+  background-color: #0f172a;
+  color: #020617;
+}
+
+
+/* ===============================
   RESPONSIVE
 ================================ */
 
