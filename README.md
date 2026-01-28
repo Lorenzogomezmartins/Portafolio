@@ -1,10 +1,11 @@
-💼 Portfolio Web — Lorenzo Gómez Martins
+💼 Portfolio Web
+Lorenzo Gómez Martins
 
-Portfolio web personal desarrollado para presentar proyectos, habilidades técnicas y formación académica de manera clara, ordenada y profesional.
+Portfolio web personal para presentar proyectos, habilidades técnicas y formación académica.
 
-Este sitio funciona como una carta de presentación digital, orientada a procesos de selección, entrevistas técnicas y evaluaciones académicas.
+Sitio pensado como carta de presentación digital para procesos de selección, entrevistas técnicas y evaluaciones académicas.
 
-🌐 Descripción General
+🌐 Descripción
 
 Sitio web estático
 
@@ -12,36 +13,30 @@ Desarrollo 100% frontend
 
 Enfoque en estructura, diseño y experiencia de usuario
 
-Código claro, organizado y mantenible
+Código claro y organizado
 
 🧭 Secciones del Sitio
-🏠 Inicio
 
-Presentación general y perfil profesional.
+🏠 Inicio
+Presentación general y perfil profesional
 
 📁 Proyectos
-
-Proyectos destacados con páginas individuales, descripción funcional y tecnologías utilizadas.
+Proyectos destacados con páginas individuales, descripción funcional y tecnologías utilizadas
 
 🛠️ Tecnologías y Habilidades
-
-Herramientas, lenguajes y habilidades interpersonales.
+Herramientas, lenguajes y habilidades interpersonales
 
 👤 Sobre mí
-
-Perfil profesional, forma de trabajo y enfoque técnico.
+Perfil profesional, forma de trabajo y enfoque técnico
 
 🎓 Experiencia y Educación
-
-Formación académica y participación en proyectos.
+Formación académica y participación en proyectos
 
 🧩 Servicios
-
-Tipos de soluciones ofrecidas en desarrollo web.
+Tipos de soluciones ofrecidas en desarrollo web
 
 📬 Contacto
-
-Formulario funcional y enlaces a redes profesionales.
+Formulario funcional y enlaces a redes profesionales
 
 🛠️ Tecnologías Utilizadas
 Frontend
@@ -69,28 +64,28 @@ portfolio/
 └── README.md
 
 
-Estructura pensada para orden, claridad y mantenibilidad del código.
+Estructura pensada para orden, claridad y mantenibilidad.
 
-🎯 Objetivo del Proyecto
+🎯 Objetivo
 
 Presentar proyectos personales y académicos
 
 Demostrar dominio de tecnologías frontend
 
-Aplicar buenas prácticas de maquetado y organización
+Aplicar buenas prácticas de maquetado
 
-Centralizar información profesional y vías de contacto
+Centralizar información profesional y contacto
 
 📬 Contacto
 
 💼 LinkedIn
-🔗 https://www.linkedin.com/in/lorenzo-gomez-martins-ab942b299/
+https://www.linkedin.com/in/lorenzo-gomez-martins-ab942b299/
 
 📸 Instagram
-🔗 https://www.instagram.com/logomezm
+https://www.instagram.com/logomezm
 
 📱 WhatsApp
-📞 +54 11 6971-4017
++54 11 6971-4017
 
 📍 Ubicación
-Argentina — Capital Federal 🇦🇷
+Argentina — Capital Federal
