@@ -1,5 +1,6 @@
 <h1 align="center">💼 Portfolio Web</h1> <h2 align="center">Lorenzo Gómez Martins</h2> <p align="center"> 💻 Portfolio Personal &nbsp;·&nbsp; 🎓 UTN Avellaneda &nbsp;·&nbsp; 🗓️ 2025 </p> <p align="center"> Portfolio web desarrollado para presentar <strong>proyectos personales y académicos</strong>,<br/> habilidades técnicas y formación profesional.<br/><br/> Funciona como una <strong>carta de presentación digital</strong>, orientada a procesos de selección,<br/> entrevistas técnicas y evaluaciones académicas. </p>
-🌐 Descripción
+
+  ## 🌐 Descripción
 
 Sitio web estático
 
@@ -9,7 +10,7 @@ Enfoque en estructura, diseño y experiencia de usuario
 
 Código claro, ordenado y mantenible
 
-🧭 Secciones del Sitio
+  ## 🧭 Secciones del Sitio
 🏠 Inicio
 
 Presentación general y perfil profesional.
@@ -44,7 +45,9 @@ Formulario funcional y enlaces a redes profesionales.
 🎨 UI / UX	Bootstrap Icons, Font Awesome
 📩 Otros	EmailJS (formulario de contacto)
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" /> </a> </p> <p> 📌 Proyecto <strong>sin backend ni base de datos</strong><br/> 📌 Formulario de contacto implementado con <strong>EmailJS</strong> </p>
-🧱 Estructura del Proyecto
+
+  ## 🧱 Estructura del Proyecto
+```bash
 portfolio/
 ├── assets/         # Imágenes, íconos y recursos
 ├── pages/          # Páginas del sitio y proyectos
@@ -52,11 +55,12 @@ portfolio/
 ├── styles/         # Estilos CSS
 ├── scripts/        # Lógica JavaScript
 └── README.md       # Documentación del proyecto
+```
 
 
 Estructura pensada para orden, claridad y mantenibilidad.
 
-🎯 Objetivo del Proyecto
+  ## 🎯 Objetivo del Proyecto
 
 Presentar proyectos personales y académicos
 
@@ -66,7 +70,7 @@ Aplicar buenas prácticas de maquetado
 
 Centralizar información profesional y contacto
 
-📫 Contacto
+  ## 📫 Contacto
 <p> <strong>Lorenzo Gómez Martins</strong> </p>
 
 📧 lorenzogomezmartins@gmail.com
