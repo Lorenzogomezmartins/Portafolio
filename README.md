@@ -1,5 +1,6 @@
 <h1 align="center">💼 Portfolio Web</h1> <h2 align="center">Lorenzo Gómez Martins</h2> <p align="center"> 💻 Portfolio Personal &nbsp;·&nbsp; 🎓 UTN Avellaneda &nbsp;·&nbsp; 🗓️ 2025 </p> <p align="center"> Portfolio web desarrollado para presentar <strong>proyectos personales y académicos</strong>,<br/> habilidades técnicas y formación profesional.<br/><br/> Funciona como una <strong>carta de presentación digital</strong>, orientada a procesos de selección,<br/> entrevistas técnicas y evaluaciones académicas. </p>
 ---
+
   ## 🌐 Descripción
 
 Sitio web estático
@@ -73,10 +74,9 @@ Centralizar información profesional y contacto
   ## 📫 Contacto
 <p> <strong>Lorenzo Gómez Martins</strong> </p>
 
-📧 lorenzogomezmartins@gmail.com
-
-💼 <a href="https://www.linkedin.com/in/lorenzo-gomez-martins-ab942b299/">LinkedIn</a>
-
-🧠 <a href="https://github.com/Lorenzogomezmartins">GitHub</a>
+Lorenzo Gomez Martins
+- 📧  lorenzogomezmartins@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/lorenzo-gomez-martins-ab942b299/)  
+- 🧠 Portafolio y proyectos: [GitHub](https://github.com/Lorenzogomezmartins)
 
 📍 Argentina — Capital Federal 🇦🇷
