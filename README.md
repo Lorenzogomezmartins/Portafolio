@@ -1,5 +1,4 @@
-<p align="center"> <img src="assets/logo.png" width="140" alt="Logo Portfolio"> </p> <h1 align="center">💼 Portfolio Web</h1> <h3 align="center">Lorenzo Gómez Martins</h3> <p align="center"> 💻 Portfolio Personal · 🎓 UTN Avellaneda · 🗓️ 2025 </p>
-<p align="center"> <strong>Portfolio Web</strong> desarrollado para presentar proyectos personales y académicos, habilidades técnicas y formación profesional.<br/> Funciona como una <strong>carta de presentación digital</strong>, orientada a procesos de selección, entrevistas técnicas y evaluaciones académicas. </p>
+<h1 align="center">💼 Portfolio Web</h1> <h2 align="center">Lorenzo Gómez Martins</h2> <p align="center"> 💻 Portfolio Personal &nbsp;·&nbsp; 🎓 UTN Avellaneda &nbsp;·&nbsp; 🗓️ 2025 </p> <p align="center"> Portfolio web desarrollado para presentar <strong>proyectos personales y académicos</strong>,<br/> habilidades técnicas y formación profesional.<br/><br/> Funciona como una <strong>carta de presentación digital</strong>, orientada a procesos de selección,<br/> entrevistas técnicas y evaluaciones académicas. </p>
 🌐 Descripción
 
 Sitio web estático
@@ -42,13 +41,9 @@ Formulario funcional y enlaces a redes profesionales.
 🛠️ Tecnologías Utilizadas
 Área	Tecnologías
 🧑‍🎨 Frontend	HTML5, CSS3, JavaScript, Bootstrap
-🎨 UI/UX	Bootstrap Icons, Font Awesome
+🎨 UI / UX	Bootstrap Icons, Font Awesome
 📩 Otros	EmailJS (formulario de contacto)
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" /> </a> </p>
-
-📌 Proyecto sin backend ni base de datos
-📌 Formulario de contacto implementado con EmailJS
-
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" /> </a> </p> <p> 📌 Proyecto <strong>sin backend ni base de datos</strong><br/> 📌 Formulario de contacto implementado con <strong>EmailJS</strong> </p>
 🧱 Estructura del Proyecto
 portfolio/
 ├── assets/         # Imágenes, íconos y recursos
