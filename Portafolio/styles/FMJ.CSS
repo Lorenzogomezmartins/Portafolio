@@ -15,18 +15,17 @@ body {
 ================================= */
 .project-header {
   background-color: #0f172a;
-  padding: 28px 20px;
+  padding: 24px 20px;
   text-align: center;
 }
 
 .project-header h3 {
   margin: 0;
-  font-size: 2.1rem;
-  letter-spacing: -0.5px;
+  font-size: 2rem;
 }
 
 .project-header p {
-  margin-top: 6px;
+  margin: 6px 0 0;
   color: #94a3b8;
   font-size: 0.95rem;
 }
@@ -35,7 +34,7 @@ body {
   color: #38bdf8;
   text-decoration: none;
   display: inline-block;
-  margin-bottom: 14px;
+  margin-bottom: 12px;
   font-weight: 500;
   transition: color 0.2s ease;
 }
@@ -56,30 +55,23 @@ main.project-content {
 .project-content h2 {
   font-size: 2rem;
   color: #38bdf8;
-  margin-bottom: 18px;
+  margin: 40px 0 15px;
 }
 
 .project-description {
-  color: #cbd5f5;
-  font-size: 1rem;
-  max-width: 750px;
-  margin-bottom: 32px;
-}
-
-.project-content h4 {
-  margin-top: 34px;
-  margin-bottom: 12px;
-  color: #7dd3fc;
-  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #94a3b8;
+  margin-bottom: 20px;
 }
 
 .project-content ul {
-  margin: 10px 0 30px 22px;
-  color: #cbd5f5;
+  padding-left: 18px;
+  margin-bottom: 20px;
 }
 
-.project-content ul li {
-  margin-bottom: 10px;
+.project-content li {
+  margin-bottom: 8px;
+  color: #e5e7eb;
 }
 
 /* ===============================
@@ -88,20 +80,20 @@ main.project-content {
 .tech-tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
-  margin-bottom: 35px;
+  gap: 10px;
+  margin-bottom: 30px;
 }
 
 .tech {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
   background-color: #1e293b;
   color: #f8fafc;
   font-size: 14px;
-  padding: 7px 16px;
+  font-weight: 500;
+  padding: 6px 14px;
   border-radius: 999px;
-  border: 1px solid rgba(56, 189, 248, 0.15);
   transition: transform 0.2s ease, background-color 0.2s ease;
 }
 
@@ -120,14 +112,15 @@ main.project-content {
 ================================= */
 .btn-github {
   display: inline-block;
-  margin-top: 30px;
-  padding: 12px 28px;
+  margin-top: 40px;
+  margin-bottom: 60px; /* separación del footer */
+  padding: 12px 26px;
   background-color: #38bdf8;
   color: #020617;
   font-weight: 600;
-  border-radius: 14px;
+  border-radius: 12px;
   text-decoration: none;
-  transition: transform 0.2s ease, background-color 0.2s ease;
+  transition: background-color 0.2s ease, transform 0.2s ease;
 }
 
 .btn-github:hover {
@@ -136,39 +129,63 @@ main.project-content {
 }
 
 /* ===============================
-   CARRUSEL (IMÁGENES CORREGIDAS)
+   CARRUSEL FMJ
 ================================= */
+#carouselFMJ {
+  max-width: 1100px;
+  margin: 30px auto 0;
+}
+
 .carousel-inner {
-  background: linear-gradient(
-    180deg,
-    #0f172a,
-    #020617
-  );
-  padding: 26px;
-  border-radius: 26px;
+  background-color: #020617;
+  padding: 24px;
+  border-radius: 18px;
   box-shadow: 0 30px 80px rgba(0, 0, 0, 0.35);
 }
 
-.carousel-inner img {
-  width: 100%;
-  height: auto;
-  max-height: 460px;
+/* Cada slide con altura fija para uniformidad */
+#carouselFMJ .carousel-item {
+  position: relative;
+  height: 520px; /* altura fija */
+  text-align: center;
+}
 
-  /* CLAVE: no se cortan ni se deforman */
+/* Contenedor que centra la imagen vertical y horizontalmente */
+#carouselFMJ .carousel-img-wrapper {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Imagen centrada, mantiene proporción sin cortar */
+#carouselFMJ img {
+  max-width: 100%;
+  max-height: 100%;
   object-fit: contain;
-
-  background-color: #020617;
-  padding: 14px;
-  border-radius: 18px;
-
-  /* nitidez */
-  image-rendering: auto;
-
+  border-radius: 12px;
   transition: transform 0.4s ease;
 }
 
-.carousel-inner:hover img {
+#carouselFMJ:hover img {
   transform: scale(1.015);
+}
+
+
+
+
+/* ===============================
+   BLOQUE CÓDIGO (si aplica)
+================================= */
+.project-structure {
+  background-color: #020617;
+  border: 1px solid #1e293b;
+  border-radius: 12px;
+  padding: 20px;
+  color: #e5e7eb;
+  font-size: 14px;
+  overflow-x: auto;
+  margin-bottom: 30px;
 }
 
 /* ===============================
@@ -176,8 +193,7 @@ main.project-content {
 ================================= */
 .footer {
   background-color: #0f172a;
-  color: #94a3b8;
+  color: #f8fafc;
   text-align: center;
-  padding: 26px 0;
-  font-size: 0.9rem;
+  padding: 20px 0;
 }
