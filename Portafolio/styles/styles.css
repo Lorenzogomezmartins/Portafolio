@@ -211,23 +211,26 @@ body {
 }
 
 /* =========================
-  PROYECTOS
+   PROYECTOS
 ========================= */
 .projects-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 40px;
 }
 
 /* ===============================
-  TARJETAS DE PROYECTO
+   TARJETAS DE PROYECTO
 ================================= */
 .project-card {
+  display: block;
   background: linear-gradient(145deg, #0f172a, #020617);
   padding: 30px;
   border-radius: 22px;
   border: 1px solid #1e293b;
+  text-decoration: none;
   transition: transform 0.4s, box-shadow 0.4s;
+  color: inherit;
 }
 
 .project-card:hover {
@@ -251,11 +254,23 @@ body {
   color: #94a3b8;
 }
 
-.project-card a {
-  color: #38bdf8;
-  font-weight: 600;
-  text-decoration: none;
+.project-card .tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
 }
+
+.project-card .tech {
+  background-color: #1e293b;
+  padding: 5px 10px;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #38bdf8;
+}
+
 
 /* ===============================
   ETIQUETAS DE TECNOLOGÍAS
